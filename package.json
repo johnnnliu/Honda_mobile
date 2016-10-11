@@ -49,5 +49,9 @@
       "locator": "ios"
     }
   ],
+<<<<<<< HEAD
   "description": "hondaMobileApp: An Ionic project"
+=======
+  "description": "HondaMobileApp: An Ionic project"
+>>>>>>> bf5392e043a75c706906eab59b20fd625fbb2509
 }

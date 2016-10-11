@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "hondaMobileApp",
+=======
+  "name": "HondaMobileApp",
+>>>>>>> bf5392e043a75c706906eab59b20fd625fbb2509
   "app_id": "",
   "v2": true,
   "typescript": true
